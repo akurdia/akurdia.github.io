@@ -1,0 +1,23 @@
+theme: "PaperMod"
+params:
+  profileMode:
+    enabled: true
+    title: "Anastasia Kurdia"
+    subtitle: "Connecting the dots"
+    imageUrl: "../assets/kurdia.png"
+    imageTitle: "Anastasia Kurdia photo"
+    imageWidth: 120
+    imageHeight: 120
+     
+  socialIcons:
+    - name: "facebook"
+      url: "https://www.facebook.com/akurdia/"
+    - name: "instagram"
+      url: "https://www.instagram.com/anastasia_kurdia"
+
+homeInfoParams:
+        Title: Hi there wave
+        Content: I am a New Orleans based educator and computer scientist. Born and raised in the engineering bubble in Minsk, Belarus, I received my undergraduate degree in Applied Mathematics and Informatics from Belarusian State University. After working as a database software developer for Minsk-based IBM partner, I completed my doctoral training at The University of Texas at Dallas, specializing in computational geometry, the area of CS where efficient solutions to problems are found based on the geometric properties of the objects involved in the problem, and its application in computational biology. I received a Ph.D. degree in computer science in 2010. My broad scientific interests are in the area of computer algorithms and software engineering, and interdisciplinary applications — I enjoy thinking how something is designed, how to optimize that design, and how to use the known solution in a different context. Computational thinking has helped me understand a lot of things in life, and I love sharing this powerful tool with others. After working at Smith College, Connecticut College, and Bucknell University on the East Coast, I’m now a Senior Professor of the Practice of Computer Science and Undergraduate Coordinator for the CS Department at Tulane University. Some of my pedagogic interests are effective teaching and active learning, novel pedagogies, teaching with technology, increasing diversity in STEM, teaching interdisciplinary learners. My educational work focuses on making CS classes more inclusive, more engaging, more effective, and more fun!
+
+
+
